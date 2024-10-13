@@ -61,7 +61,7 @@
     position: relative;
     display: flex;
     height: 450px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/Do-Manh-Tuan-project-1/image.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image.png);
     background-repeat: no-repeat;
     background-size: 100% auto;
     position: relative;
